@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         ajaxHooker
-// @author       cxxjackie
+// @name         ndk18.bot
+// @author       Nadim Munna
 // @version      1.1.1
 // @supportURL   https://bbs.tampermonkey.net.cn/thread-3284-1-1.html
 // ==/UserScript==
